@@ -1,6 +1,8 @@
 1. Download all of these manually:
 - github.com/hluk/CopyQ/releases/latest
 
-2. via task manager adjust startup apps to liking
+2. run "irm "https://christitus.com/win" | iex" and enable desired tweaks (maybe add what winutil does to the script instead in the future... https://github.com/ChrisTitusTech/winutil/blob/main/docs/devdocs.md)
 
-3. via steam adjust wallpaper engine to liking
+3. via task manager, adjust startup apps to liking
+
+4. via steam, adjust wallpaper engine to liking
