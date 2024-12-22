@@ -1,2 +1,6 @@
-1. via task manager adjust startup apps to liking
-2. via steam adjust wallpaper engine to liking
+1. Download all of these manually:
+- github.com/hluk/CopyQ/releases/latest
+
+2. via task manager adjust startup apps to liking
+
+3. via steam adjust wallpaper engine to liking
