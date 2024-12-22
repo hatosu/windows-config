@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/hatosu/windows-config/blob/main/showcase.gif?raw=true" />
+</div>
+---
 how to install:
   ```powershell
   # first command
@@ -8,7 +12,3 @@ how to install:
 
   # once finished, read manual-steps.txt and perform remaining steps
   ```
----
-<div align="center">
-<img src="https://github.com/hatosu/windows-config/blob/main/showcase.gif?raw=true" />
-</div>
