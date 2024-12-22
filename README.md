@@ -1,8 +1,7 @@
-<div align="center">
-<img src="https://github.com/hatosu/windows-config/blob/main/showcase.gif?raw=true" />
-</div>
----
-<br />
+<h1 align=center>
+  <img src="https://github.com/hatosu/windows-config/blob/main/showcase.gif?raw=true" />
+</h1>
+
 how to install:
   ```powershell
   # first command
