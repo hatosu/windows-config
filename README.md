@@ -2,6 +2,7 @@
 <img src="https://github.com/hatosu/windows-config/blob/main/showcase.gif?raw=true" />
 </div>
 ---
+<br />
 how to install:
   ```powershell
   # first command
