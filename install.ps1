@@ -1,3 +1,6 @@
+# navigate to userdir
+cd "$env:USERPROFILE\"
+
 # check if winget exists & deal with it
 if (-not (Get-Command winget -ErrorAction SilentlyContinue)) {
     Write-Host "winget not installed, attempting to install"
@@ -24,6 +27,15 @@ Write-Output "`nImport-Module 'gsudoModule'" | Add-Content $PROFILE
 wsl --install --no-distribution
 Invoke-WebRequest 'github.com/nix-community/NixOS-WSL/releases/latest' -OutFile ./nixos-wsl.tar.gz
 wsl --import NixOS $env:USERPROFILE\NixOS\ nixos-wsl.tar.gz --version 2
+
+# prepare symlinks folder (located in C:\Users\SOMEUSER\symlinks)
+winget install --id=Git.Git -e
+git clone https://github.com/hatosu/windows-config
+mv ".\windows-config\symlinks\" ".\symlinks\"
+mv ".\windows-config\" ".\DELETE_THIS_FOLDER\"
+
+# make symlinks
+cmd /c mklink /d "$env:USERPROFILE\AppData\Roaming\FlowLauncher" "$env:USERPROFILE\symlinks\FlowLauncher"
 
 # install remaining applications
 winget install --id=MullvadVPN.MullvadVPN -e
