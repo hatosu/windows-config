@@ -1,0 +1,37 @@
+[terminal.shell]
+program = "wsl"
+
+[colors.bright]
+black = "#88807C"
+blue = "#48B9C7"
+cyan = "#34E2E2"
+green = "#73C48F"
+magenta = "#AD7FA8"
+red = "#F15D22"
+white = "#EEEEEC"
+yellow = "#FFCE51"
+
+[colors.normal]
+black = "#202020"
+blue = "#AFB2CD"
+cyan = "#DEC6C2"
+green = "#bddbbe"
+magenta = "#c678dd"
+red = "#CC0000"
+white = "#D3D7CF"
+yellow = "#d19a66"
+
+[colors.primary]
+background = "#1C1C1B"
+foreground = "#F2F2F2"
+
+[font]
+size = 11.0
+
+[window]
+dynamic_title = true
+opacity = 0.70
+
+[window.dimensions]
+columns = 120
+lines = 35

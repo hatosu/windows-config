@@ -1,0 +1,552 @@
+{
+  "Items": [
+    {
+      "Query": "task",
+      "ExecutedDateTime": "2024-12-20T02:37:29.0039128-08:00"
+    },
+    {
+      "Query": "copy",
+      "ExecutedDateTime": "2024-12-20T03:16:14.9194921-08:00"
+    },
+    {
+      "Query": "task",
+      "ExecutedDateTime": "2024-12-20T03:24:15.1612609-08:00"
+    },
+    {
+      "Query": "wall",
+      "ExecutedDateTime": "2024-12-20T03:26:16.0880742-08:00"
+    },
+    {
+      "Query": "startup",
+      "ExecutedDateTime": "2024-12-20T03:26:42.7616893-08:00"
+    },
+    {
+      "Query": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\",
+      "ExecutedDateTime": "2024-12-20T03:26:44.0041743-08:00"
+    },
+    {
+      "Query": "spo",
+      "ExecutedDateTime": "2024-12-20T03:29:02.2753005-08:00"
+    },
+    {
+      "Query": "spotify",
+      "ExecutedDateTime": "2024-12-20T03:29:13.6751863-08:00"
+    },
+    {
+      "Query": "steam",
+      "ExecutedDateTime": "2024-12-20T03:41:52.0410315-08:00"
+    },
+    {
+      "Query": "store",
+      "ExecutedDateTime": "2024-12-20T03:42:36.4912805-08:00"
+    },
+    {
+      "Query": "tas",
+      "ExecutedDateTime": "2024-12-20T03:43:12.3612009-08:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2024-12-20T03:45:55.3526748-08:00"
+    },
+    {
+      "Query": "firefo",
+      "ExecutedDateTime": "2024-12-20T04:03:34.445897-08:00"
+    },
+    {
+      "Query": "marvel",
+      "ExecutedDateTime": "2024-12-20T04:03:58.7044802-08:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2024-12-20T05:51:08.5113822-08:00"
+    },
+    {
+      "Query": "firefo",
+      "ExecutedDateTime": "2024-12-20T05:58:46.8130895-08:00"
+    },
+    {
+      "Query": "obsi",
+      "ExecutedDateTime": "2024-12-20T06:00:20.4863904-08:00"
+    },
+    {
+      "Query": "glaze",
+      "ExecutedDateTime": "2024-12-20T06:19:41.8998979-08:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2024-12-20T06:23:22.8012536-08:00"
+    },
+    {
+      "Query": "glaze",
+      "ExecutedDateTime": "2024-12-20T06:24:03.0598463-08:00"
+    },
+    {
+      "Query": "col",
+      "ExecutedDateTime": "2024-12-20T06:36:33.5141076-08:00"
+    },
+    {
+      "Query": "powershell",
+      "ExecutedDateTime": "2024-12-20T07:05:53.3649815-08:00"
+    },
+    {
+      "Query": "wal",
+      "ExecutedDateTime": "2024-12-20T07:18:05.1450941-08:00"
+    },
+    {
+      "Query": "wall",
+      "ExecutedDateTime": "2024-12-20T07:18:44.7084583-08:00"
+    },
+    {
+      "Query": "picker",
+      "ExecutedDateTime": "2024-12-20T07:21:13.0409663-08:00"
+    },
+    {
+      "Query": "col",
+      "ExecutedDateTime": "2024-12-20T07:22:57.9377211-08:00"
+    },
+    {
+      "Query": "wall",
+      "ExecutedDateTime": "2024-12-20T07:26:23.2158014-08:00"
+    },
+    {
+      "Query": "color",
+      "ExecutedDateTime": "2024-12-20T07:28:12.564798-08:00"
+    },
+    {
+      "Query": "wall",
+      "ExecutedDateTime": "2024-12-20T07:37:07.5654161-08:00"
+    },
+    {
+      "Query": "marv",
+      "ExecutedDateTime": "2024-12-20T09:03:41.2480268-08:00"
+    },
+    {
+      "Query": "glaze",
+      "ExecutedDateTime": "2024-12-20T09:06:53.9737007-08:00"
+    },
+    {
+      "Query": "steam",
+      "ExecutedDateTime": "2024-12-20T09:20:08.2881374-08:00"
+    },
+    {
+      "Query": "league",
+      "ExecutedDateTime": "2024-12-20T09:24:27.8004787-08:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2024-12-20T10:07:22.0638282-08:00"
+    },
+    {
+      "Query": "glazew",
+      "ExecutedDateTime": "2024-12-20T10:42:35.620668-08:00"
+    },
+    {
+      "Query": "colo",
+      "ExecutedDateTime": "2024-12-20T10:48:19.3421495-08:00"
+    },
+    {
+      "Query": "mal",
+      "ExecutedDateTime": "2024-12-20T10:54:30.074-08:00"
+    },
+    {
+      "Query": "disc",
+      "ExecutedDateTime": "2024-12-20T15:14:21.769435-08:00"
+    },
+    {
+      "Query": "bcunin",
+      "ExecutedDateTime": "2024-12-20T15:15:31.7665393-08:00"
+    },
+    {
+      "Query": "stea",
+      "ExecutedDateTime": "2024-12-20T15:15:55.1581327-08:00"
+    },
+    {
+      "Query": "bc",
+      "ExecutedDateTime": "2024-12-20T15:17:00.2727509-08:00"
+    },
+    {
+      "Query": "firef",
+      "ExecutedDateTime": "2024-12-20T15:20:59.9097887-08:00"
+    },
+    {
+      "Query": "windows",
+      "ExecutedDateTime": "2024-12-20T15:22:15.803497-08:00"
+    },
+    {
+      "Query": "task",
+      "ExecutedDateTime": "2024-12-20T15:23:32.8128363-08:00"
+    },
+    {
+      "Query": "wall",
+      "ExecutedDateTime": "2024-12-21T14:14:09.0794836-08:00"
+    },
+    {
+      "Query": "firefo",
+      "ExecutedDateTime": "2024-12-21T14:20:19.1502053-08:00"
+    },
+    {
+      "Query": "fire",
+      "ExecutedDateTime": "2024-12-21T14:20:24.6954413-08:00"
+    },
+    {
+      "Query": "obs",
+      "ExecutedDateTime": "2024-12-21T16:20:33.9291158-08:00"
+    },
+    {
+      "Query": "fi",
+      "ExecutedDateTime": "2024-12-21T16:23:36.4899415-08:00"
+    },
+    {
+      "Query": "firef",
+      "ExecutedDateTime": "2024-12-21T17:15:03.618184-08:00"
+    },
+    {
+      "Query": "fi",
+      "ExecutedDateTime": "2024-12-21T17:17:54.1719317-08:00"
+    },
+    {
+      "Query": "col",
+      "ExecutedDateTime": "2024-12-21T17:33:21.8646481-08:00"
+    },
+    {
+      "Query": "colo",
+      "ExecutedDateTime": "2024-12-21T17:35:02.3061937-08:00"
+    },
+    {
+      "Query": "fi",
+      "ExecutedDateTime": "2024-12-21T17:35:48.9366942-08:00"
+    },
+    {
+      "Query": "col",
+      "ExecutedDateTime": "2024-12-21T17:36:54.1485789-08:00"
+    },
+    {
+      "Query": "fire",
+      "ExecutedDateTime": "2024-12-21T17:38:32.1141339-08:00"
+    },
+    {
+      "Query": "glaze",
+      "ExecutedDateTime": "2024-12-21T17:42:53.5527275-08:00"
+    },
+    {
+      "Query": "col",
+      "ExecutedDateTime": "2024-12-21T17:43:08.0936507-08:00"
+    },
+    {
+      "Query": "co",
+      "ExecutedDateTime": "2024-12-21T17:47:49.0797551-08:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2024-12-21T17:49:04.0278303-08:00"
+    },
+    {
+      "Query": "marve",
+      "ExecutedDateTime": "2024-12-21T18:30:44.395639-08:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2024-12-21T18:35:01.8300775-08:00"
+    },
+    {
+      "Query": "f",
+      "ExecutedDateTime": "2024-12-21T19:38:12.4509034-08:00"
+    },
+    {
+      "Query": "wallpap",
+      "ExecutedDateTime": "2024-12-21T20:19:45.2130334-08:00"
+    },
+    {
+      "Query": "power",
+      "ExecutedDateTime": "2024-12-21T20:27:08.8034369-08:00"
+    },
+    {
+      "Query": "pow",
+      "ExecutedDateTime": "2024-12-21T20:28:40.921361-08:00"
+    },
+    {
+      "Query": "obs",
+      "ExecutedDateTime": "2024-12-21T20:33:50.5609167-08:00"
+    },
+    {
+      "Query": "firef",
+      "ExecutedDateTime": "2024-12-21T20:46:48.7314854-08:00"
+    },
+    {
+      "Query": "bc",
+      "ExecutedDateTime": "2024-12-21T20:55:08.6387581-08:00"
+    },
+    {
+      "Query": "file convert",
+      "ExecutedDateTime": "2024-12-21T20:55:32.4237244-08:00"
+    },
+    {
+      "Query": "file",
+      "ExecutedDateTime": "2024-12-21T21:00:25.0552429-08:00"
+    },
+    {
+      "Query": "hyp",
+      "ExecutedDateTime": "2024-12-21T21:08:57.9363609-08:00"
+    },
+    {
+      "Query": "hy",
+      "ExecutedDateTime": "2024-12-21T21:09:34.6305327-08:00"
+    },
+    {
+      "Query": "hyp",
+      "ExecutedDateTime": "2024-12-21T21:16:15.9991542-08:00"
+    },
+    {
+      "Query": "hy",
+      "ExecutedDateTime": "2024-12-21T21:17:35.7167267-08:00"
+    },
+    {
+      "Query": "file",
+      "ExecutedDateTime": "2024-12-21T21:24:52.7096144-08:00"
+    },
+    {
+      "Query": "firef",
+      "ExecutedDateTime": "2024-12-21T21:26:31.5454921-08:00"
+    },
+    {
+      "Query": "file",
+      "ExecutedDateTime": "2024-12-21T21:26:44.3326205-08:00"
+    },
+    {
+      "Query": "firef",
+      "ExecutedDateTime": "2024-12-21T21:27:41.8227438-08:00"
+    },
+    {
+      "Query": "file",
+      "ExecutedDateTime": "2024-12-21T21:33:54.5874877-08:00"
+    },
+    {
+      "Query": "fire",
+      "ExecutedDateTime": "2024-12-21T21:44:19.4886042-08:00"
+    },
+    {
+      "Query": "file",
+      "ExecutedDateTime": "2024-12-21T21:45:54.3198533-08:00"
+    },
+    {
+      "Query": "tas",
+      "ExecutedDateTime": "2024-12-21T21:46:23.478534-08:00"
+    },
+    {
+      "Query": "file",
+      "ExecutedDateTime": "2024-12-21T21:47:16.8189078-08:00"
+    },
+    {
+      "Query": "anki",
+      "ExecutedDateTime": "2024-12-21T21:53:22.8790971-08:00"
+    },
+    {
+      "Query": "an",
+      "ExecutedDateTime": "2024-12-21T21:55:49.5484427-08:00"
+    },
+    {
+      "Query": "firef",
+      "ExecutedDateTime": "2024-12-21T21:56:48.8106311-08:00"
+    },
+    {
+      "Query": "an",
+      "ExecutedDateTime": "2024-12-21T22:33:48.9187745-08:00"
+    },
+    {
+      "Query": "glaze",
+      "ExecutedDateTime": "2024-12-21T23:11:44.1958974-08:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2024-12-21T23:14:49.3543729-08:00"
+    },
+    {
+      "Query": "gl",
+      "ExecutedDateTime": "2024-12-21T23:19:14.108336-08:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2024-12-21T23:28:13.8819003-08:00"
+    },
+    {
+      "Query": "wall",
+      "ExecutedDateTime": "2024-12-21T23:28:47.3129404-08:00"
+    },
+    {
+      "Query": "wal",
+      "ExecutedDateTime": "2024-12-21T23:30:40.19638-08:00"
+    },
+    {
+      "Query": "col",
+      "ExecutedDateTime": "2024-12-21T23:32:46.3789911-08:00"
+    },
+    {
+      "Query": "wall",
+      "ExecutedDateTime": "2024-12-21T23:34:17.7305493-08:00"
+    },
+    {
+      "Query": "obs",
+      "ExecutedDateTime": "2024-12-21T23:39:28.5550901-08:00"
+    },
+    {
+      "Query": "fi",
+      "ExecutedDateTime": "2024-12-21T23:47:04.3551718-08:00"
+    },
+    {
+      "Query": "stea",
+      "ExecutedDateTime": "2024-12-21T23:53:23.1320162-08:00"
+    },
+    {
+      "Query": "colo",
+      "ExecutedDateTime": "2024-12-21T23:55:08.6600138-08:00"
+    },
+    {
+      "Query": "setti",
+      "ExecutedDateTime": "2024-12-22T00:04:29.9290071-08:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2024-12-22T00:15:57.4562753-08:00"
+    },
+    {
+      "Query": "fire",
+      "ExecutedDateTime": "2024-12-22T00:20:57.9640286-08:00"
+    },
+    {
+      "Query": "fla",
+      "ExecutedDateTime": "2024-12-22T00:25:25.0181095-08:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2024-12-22T00:27:03.1307576-08:00"
+    },
+    {
+      "Query": "bc",
+      "ExecutedDateTime": "2024-12-22T00:27:18.768785-08:00"
+    },
+    {
+      "Query": "fla",
+      "ExecutedDateTime": "2024-12-22T00:42:37.9366455-08:00"
+    },
+    {
+      "Query": "fi",
+      "ExecutedDateTime": "2024-12-22T00:43:05.7743941-08:00"
+    },
+    {
+      "Query": "tas",
+      "ExecutedDateTime": "2024-12-22T01:03:23.3088525-08:00"
+    },
+    {
+      "Query": "fla",
+      "ExecutedDateTime": "2024-12-22T01:03:39.8942669-08:00"
+    },
+    {
+      "Query": "wi",
+      "ExecutedDateTime": "2024-12-22T01:04:24.6357333-08:00"
+    },
+    {
+      "Query": "firef",
+      "ExecutedDateTime": "2024-12-22T01:04:35.9822152-08:00"
+    },
+    {
+      "Query": "file",
+      "ExecutedDateTime": "2024-12-22T01:08:03.2010522-08:00"
+    },
+    {
+      "Query": "spo",
+      "ExecutedDateTime": "2024-12-22T01:09:36.3825326-08:00"
+    },
+    {
+      "Query": "windows",
+      "ExecutedDateTime": "2024-12-22T01:10:54.001336-08:00"
+    },
+    {
+      "Query": "fi",
+      "ExecutedDateTime": "2024-12-22T01:24:05.1563235-08:00"
+    },
+    {
+      "Query": "fire",
+      "ExecutedDateTime": "2024-12-22T01:25:57.9364045-08:00"
+    },
+    {
+      "Query": "rec",
+      "ExecutedDateTime": "2024-12-22T01:30:22.2430847-08:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2024-12-22T01:33:41.1849792-08:00"
+    },
+    {
+      "Query": "control pan",
+      "ExecutedDateTime": "2024-12-22T01:34:01.931638-08:00"
+    },
+    {
+      "Query": "firef",
+      "ExecutedDateTime": "2024-12-22T01:41:18.9537328-08:00"
+    },
+    {
+      "Query": "bc",
+      "ExecutedDateTime": "2024-12-22T01:42:14.3936319-08:00"
+    },
+    {
+      "Query": "rec",
+      "ExecutedDateTime": "2024-12-22T01:42:42.5648347-08:00"
+    },
+    {
+      "Query": "firef",
+      "ExecutedDateTime": "2024-12-22T01:45:35.2865323-08:00"
+    },
+    {
+      "Query": "spo",
+      "ExecutedDateTime": "2024-12-22T01:45:55.8436712-08:00"
+    },
+    {
+      "Query": "contr",
+      "ExecutedDateTime": "2024-12-22T01:46:12.532328-08:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2024-12-22T01:48:30.2942289-08:00"
+    },
+    {
+      "Query": "wall",
+      "ExecutedDateTime": "2024-12-22T01:54:08.0328662-08:00"
+    },
+    {
+      "Query": "recti",
+      "ExecutedDateTime": "2024-12-22T01:56:53.0992913-08:00"
+    },
+    {
+      "Query": "file",
+      "ExecutedDateTime": "2024-12-22T01:57:30.4151196-08:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2024-12-22T01:58:48.0808303-08:00"
+    },
+    {
+      "Query": "tas",
+      "ExecutedDateTime": "2024-12-22T01:59:16.6991671-08:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2024-12-22T02:04:21.6301669-08:00"
+    },
+    {
+      "Query": "wall",
+      "ExecutedDateTime": "2024-12-22T02:05:07.1822357-08:00"
+    },
+    {
+      "Query": "recti",
+      "ExecutedDateTime": "2024-12-22T02:05:21.6439922-08:00"
+    },
+    {
+      "Query": "wall",
+      "ExecutedDateTime": "2024-12-22T02:05:54.196912-08:00"
+    },
+    {
+      "Query": "sett",
+      "ExecutedDateTime": "2024-12-22T02:06:58.7056324-08:00"
+    }
+  ]
+}
