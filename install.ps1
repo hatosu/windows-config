@@ -82,3 +82,4 @@ winget install --id=Vercel.Hyper -e
 winget install --id=Obsidian.Obsidian -e
 winget install --id=VSCodium.VSCodium -e
 winget install --id=CharlesMilette.TranslucentTB -e
+winget install --id=LMMS.LMMS -e
