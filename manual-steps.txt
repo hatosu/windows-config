@@ -1,5 +1,7 @@
 1. Download all of these manually:
 - github.com/hluk/CopyQ/releases/latest
+- github.com/AnimeEffectsDevs/AnimeEffects/releases/latest
+- https://www.blackmagicdesign.com/products/davinciresolve
 
 2. run "irm "https://christitus.com/win" | iex" and enable desired tweaks (maybe add what winutil does to the script instead in the future... https://github.com/ChrisTitusTech/winutil/blob/main/docs/devdocs.md)
 
