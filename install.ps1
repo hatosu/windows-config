@@ -35,7 +35,12 @@ mv ".\windows-config\symlinks\" ".\symlinks\"
 mv ".\windows-config\" ".\DELETE_THIS_FOLDER\"
 
 # make symlinks
+cmd /c mklink /d "$env:USERPROFILE\.glzr\glazewm" "$env:USERPROFILE\symlinks\glazewm"
+cmd /c mklink /d "$env:USERPROFILE\.glzr\zebar" "$env:USERPROFILE\symlinks\zebar"
+cmd /c mklink /d "$env:USERPROFILE\AppData\Roaming\alacritty" "$env:USERPROFILE\symlinks\alacritty"
 cmd /c mklink /d "$env:USERPROFILE\AppData\Roaming\FlowLauncher" "$env:USERPROFILE\symlinks\FlowLauncher"
+cmd /c mklink /d "$env:USERPROFILE\AppData\Roaming\Hyper" "$env:USERPROFILE\symlinks\Hyper"
+cmd /c mklink /d "$env:USERPROFILE\AppData\Roaming\Vencord" "$env:USERPROFILE\symlinks\Vencord"
 
 # install remaining applications
 winget install --id=MullvadVPN.MullvadVPN -e
