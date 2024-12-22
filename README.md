@@ -1,6 +1,6 @@
 how to install:
 - ```powershell
-  iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/gerardog/gsudo/master/installgsudo.ps1'))
+  iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/hatosu/windows-config/master/install.ps1'))
   ```
 - read `manual-steps.txt` and perform remaining steps
 ---
